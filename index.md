@@ -8,4 +8,4 @@ author_profile: false
 
 # Projects 💻
 
-## ![test](<images/deeptext(Custom).png>) <a href="https://github.com/71xn/DeepText" target="_blank">DeepText - Tensorflow Natural Language Generator</a>
+## ![test](<images/deeptext(Custom).png>) <a href="https://internationalschoolaberdeen.github.io/aiproject/" target="_blank">DeepText - Tensorflow Natural Language Generator</a>
