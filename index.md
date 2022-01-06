@@ -10,9 +10,9 @@ author_profile: false
 
 <hr />
 
-> **Update - 22/11/2021**
+> **Update - 01/01/2022**
 >
-> Are you interested in taking up a leadership role? and have a passion for computer science regardless if you're taking it as a class or not? Well then, you're in luck! The IT Projects Team is looking for a group of 4-5 10th & 11th grade students, both girls and boys, to manage our infrastructure from Summer 2022 onwards. You and your fellow teammates would be responsible for ensuring that the Project Labs computing systems are maintained and administered, along with other additional responsibilities such as recording and live streaming shows in the theatre. This opportunity would allow you to gain experience managing a team, collaborating on projects, assisting in the theatre as an AV Technician, setting up and running live performances. Please speak to [Finn Lestrange](mailto:flestrange@isa.aberdeen.sch.uk) or Mr. Krishna for more details.
+> When we return to school after the X-mas break, we will be speaking to the people selected to help us run the projects lab, and to support the schools CS curriculum. For any further questions, please speak to [Finn Lestrange](mailto:flestrange@isa.aberdeen.sch.uk) or Mr. Krishna for more details.
 
 # Projects 💻
 
