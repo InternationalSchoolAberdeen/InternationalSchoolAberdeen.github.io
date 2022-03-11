@@ -10,9 +10,9 @@ author_profile: false
 
 <hr />
 
-> **Update - 01/01/2022**
+> **Update - 11/03/2022**
 >
-> When we return to school after the X-mas break, we will be speaking to the people selected to help us run the projects lab, and to support the schools CS curriculum. For any further questions, please speak to [Finn Lestrange](mailto:flestrange@isa.aberdeen.sch.uk) or Mr. Krishna for more details.
+> We will host a meeting soon to go over more aspects of the project lab and to cover things like the local database server and how you can access the servers.
 
 # Projects 💻
 

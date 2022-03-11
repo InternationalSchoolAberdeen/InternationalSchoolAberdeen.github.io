@@ -5,7 +5,7 @@ locale: "en-US"
 title: "International School of Aberdeen GitHub"
 title_separator: "-"
 subtitle: # site tagline that appears below site title in masthead
-name: "Finn Lestrange & Nicholas Keck"
+name: "Finn Lestrange"
 description: "International School of Aberdeen GitHub"
 url: "https://internationalschoolaberdeen.github.io" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl: # the subpath of your site, e.g. "/blog"
